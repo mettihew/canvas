@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cars/static/css/main.4e00e17f.css",
+    "main.js": "/cars/static/js/main.224ad387.js",
+    "static/media/benz.jpg": "/cars/static/media/benz.fc89b71cdef3fb358ceb.jpg",
+    "static/media/jeep.jpg": "/cars/static/media/jeep.3f8a45d83338d733fcc1.jpg",
+    "static/media/ferrari.jpg": "/cars/static/media/ferrari.07b7e04e6a6fb7a9bde5.jpg",
+    "index.html": "/cars/index.html",
+    "main.4e00e17f.css.map": "/cars/static/css/main.4e00e17f.css.map",
+    "main.224ad387.js.map": "/cars/static/js/main.224ad387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e00e17f.css",
+    "static/js/main.224ad387.js"
+  ]
+}
