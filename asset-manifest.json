@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/canvas/static/css/main.4553f429.css",
-    "main.js": "/canvas/static/js/main.111a6975.js",
+    "main.js": "/canvas/static/js/main.cccb1d5d.js",
     "static/media/painting-girl.jpg": "/canvas/static/media/painting-girl.391b7e3c357c0fa45606.jpg",
     "static/media/best.jpg": "/canvas/static/media/best.ea7c08418771ac5999cd.jpg",
     "index.html": "/canvas/index.html",
     "main.4553f429.css.map": "/canvas/static/css/main.4553f429.css.map",
-    "main.111a6975.js.map": "/canvas/static/js/main.111a6975.js.map"
+    "main.cccb1d5d.js.map": "/canvas/static/js/main.cccb1d5d.js.map"
   },
   "entrypoints": [
     "static/css/main.4553f429.css",
-    "static/js/main.111a6975.js"
+    "static/js/main.cccb1d5d.js"
   ]
 }
